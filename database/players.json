@@ -103,6 +103,16 @@
           "caughtAt": "2025-11-15T10:05:43.649Z"
         }
       ]
+    },
+    "hfrjy": {
+      "id": "hfrjy",
+      "name": "hfrjy",
+      "avatar": "male",
+      "level": 1,
+      "exp": 0,
+      "totalCatches": 0,
+      "bestWeight": 0,
+      "inventory": []
     }
   }
 }
