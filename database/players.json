@@ -5,8 +5,8 @@
       "name": "kai",
       "avatar": "male",
       "level": 2,
-      "exp": 234,
-      "totalCatches": 3,
+      "exp": 256,
+      "totalCatches": 4,
       "bestWeight": 1232,
       "inventory": [
         {
@@ -23,6 +23,11 @@
           "fishId": 14,
           "weight": 1232,
           "caughtAt": "2025-11-15T00:05:42.479Z"
+        },
+        {
+          "fishId": 2,
+          "weight": 223,
+          "caughtAt": "2025-11-15T00:05:46.430Z"
         }
       ]
     }
