@@ -66,6 +66,16 @@
           "caughtAt": "2025-11-15T08:32:24.246Z"
         }
       ]
+    },
+    "lucy": {
+      "id": "lucy",
+      "name": "lucy",
+      "avatar": "female",
+      "level": 1,
+      "exp": 0,
+      "totalCatches": 0,
+      "bestWeight": 0,
+      "inventory": []
     }
   }
 }
