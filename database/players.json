@@ -135,10 +135,16 @@
       "name": "jing gonjang ganjing",
       "avatar": "male",
       "level": 1,
-      "exp": 0,
-      "totalCatches": 0,
-      "bestWeight": 0,
-      "inventory": []
+      "exp": 36,
+      "totalCatches": 1,
+      "bestWeight": 369,
+      "inventory": [
+        {
+          "fishId": 5,
+          "weight": 369,
+          "caughtAt": "2025-11-15T10:36:40.606Z"
+        }
+      ]
     }
   }
 }
