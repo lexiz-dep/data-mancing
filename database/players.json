@@ -129,6 +129,16 @@
           "caughtAt": "2025-11-15T10:11:15.469Z"
         }
       ]
+    },
+    "jing-gonjang-ganjing": {
+      "id": "jing-gonjang-ganjing",
+      "name": "jing gonjang ganjing",
+      "avatar": "male",
+      "level": 1,
+      "exp": 0,
+      "totalCatches": 0,
+      "bestWeight": 0,
+      "inventory": []
     }
   }
 }
