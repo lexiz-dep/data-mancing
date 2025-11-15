@@ -1,3 +1,14 @@
 {
-  "players": {}
+  "players": {
+    "kai": {
+      "id": "kai",
+      "name": "kai",
+      "avatar": "male",
+      "level": 1,
+      "exp": 0,
+      "totalCatches": 0,
+      "bestWeight": 0,
+      "inventory": []
+    }
+  }
 }
