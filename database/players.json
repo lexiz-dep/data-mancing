@@ -50,6 +50,16 @@
           "caughtAt": "2025-11-15T00:06:04.235Z"
         }
       ]
+    },
+    "lexuzz": {
+      "id": "lexuzz",
+      "name": "lexuzz",
+      "avatar": "male",
+      "level": 1,
+      "exp": 0,
+      "totalCatches": 0,
+      "bestWeight": 0,
+      "inventory": []
     }
   }
 }
