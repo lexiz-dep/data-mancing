@@ -5,10 +5,16 @@
       "name": "1",
       "avatar": "male",
       "level": 1,
-      "exp": 0,
-      "totalCatches": 0,
-      "bestWeight": 0,
-      "inventory": []
+      "exp": 41,
+      "totalCatches": 1,
+      "bestWeight": 411,
+      "inventory": [
+        {
+          "fishId": 6,
+          "weight": 411,
+          "caughtAt": "2025-11-15T10:04:36.446Z"
+        }
+      ]
     },
     "kai": {
       "id": "kai",
