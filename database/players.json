@@ -56,10 +56,16 @@
       "name": "lexuzz",
       "avatar": "male",
       "level": 1,
-      "exp": 0,
-      "totalCatches": 0,
-      "bestWeight": 0,
-      "inventory": []
+      "exp": 14,
+      "totalCatches": 1,
+      "bestWeight": 149,
+      "inventory": [
+        {
+          "fishId": 12,
+          "weight": 149,
+          "caughtAt": "2025-11-15T08:32:24.246Z"
+        }
+      ]
     }
   }
 }
