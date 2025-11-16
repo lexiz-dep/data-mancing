@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2277,
-      "totalCatches": 12,
+      "exp": 2300,
+      "totalCatches": 13,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -178,7 +178,17 @@
           "caughtAt": "2025-11-16T07:06:40.468Z"
         }
       ],
-      "fishCaught": [],
+      "fishCaught": [
+        {
+          "id": "6-1763280121469-0.12622950037976155",
+          "fishId": 6,
+          "name": "Tongkol Kecil",
+          "rarity": "common",
+          "weight": 234,
+          "caughtAt": "2025-11-16T08:02:01.469Z",
+          "price": 2
+        }
+      ],
       "coins": 19,
       "baitInventory": {
         "worm": 9
