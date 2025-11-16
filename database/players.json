@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2388,
-      "totalCatches": 17,
+      "exp": 2416,
+      "totalCatches": 18,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -213,6 +213,15 @@
           "rarity": "common",
           "weight": 257,
           "caughtAt": "2025-11-16T08:09:48.264Z",
+          "price": 3
+        },
+        {
+          "id": "3-1763280600108-0.792046253895274",
+          "fishId": 3,
+          "name": "Lele",
+          "rarity": "common",
+          "weight": 285,
+          "caughtAt": "2025-11-16T08:10:00.108Z",
           "price": 3
         }
       ],
