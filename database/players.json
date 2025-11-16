@@ -114,8 +114,8 @@
       "name": "hfrjy",
       "avatar": "male",
       "level": 1,
-      "exp": 39,
-      "totalCatches": 2,
+      "exp": 61,
+      "totalCatches": 3,
       "bestWeight": 285,
       "inventory": [
         {
@@ -127,6 +127,11 @@
           "fishId": 12,
           "weight": 285,
           "caughtAt": "2025-11-15T10:11:15.469Z"
+        },
+        {
+          "fishId": 4,
+          "weight": 229,
+          "caughtAt": "2025-11-16T05:33:55.295Z"
         }
       ]
     },
