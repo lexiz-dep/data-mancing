@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2242,
-      "totalCatches": 11,
+      "exp": 2277,
+      "totalCatches": 12,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -188,7 +188,8 @@
           "caughtAt": "2025-11-16T07:57:18.230Z",
           "price": 1
         }
-      ]
+      ],
+      "coins": 28
     },
     "hfrjy": {
       "id": "hfrjy",
