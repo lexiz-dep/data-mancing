@@ -5,8 +5,8 @@
       "name": "1",
       "avatar": "male",
       "level": 4,
-      "exp": 1083,
-      "totalCatches": 8,
+      "exp": 1107,
+      "totalCatches": 9,
       "bestWeight": 8282,
       "inventory": [
         {
@@ -48,6 +48,11 @@
           "fishId": 6,
           "weight": 494,
           "caughtAt": "2025-11-16T07:13:58.630Z"
+        },
+        {
+          "fishId": 3,
+          "weight": 248,
+          "caughtAt": "2025-11-16T08:28:14.149Z"
         }
       ]
     },
