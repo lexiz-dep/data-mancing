@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2329,
-      "totalCatches": 14,
+      "exp": 2342,
+      "totalCatches": 15,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -196,6 +196,15 @@
           "weight": 293,
           "caughtAt": "2025-11-16T08:03:25.890Z",
           "price": 12
+        },
+        {
+          "id": "trash-1763280218966-0.959589703043513",
+          "fishId": -1,
+          "name": "Botol Plastik",
+          "rarity": "common",
+          "weight": 131,
+          "caughtAt": "2025-11-16T08:03:38.967Z",
+          "price": 5
         }
       ],
       "coins": 19,
