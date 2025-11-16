@@ -118,8 +118,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2205,
-      "totalCatches": 9,
+      "exp": 2234,
+      "totalCatches": 10,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -166,6 +166,11 @@
           "fishId": 19,
           "weight": 9043,
           "caughtAt": "2025-11-16T06:29:10.319Z"
+        },
+        {
+          "fishId": 7,
+          "weight": 290,
+          "caughtAt": "2025-11-16T07:06:40.468Z"
         }
       ]
     },
