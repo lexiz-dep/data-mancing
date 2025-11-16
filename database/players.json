@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2300,
-      "totalCatches": 13,
+      "exp": 2329,
+      "totalCatches": 14,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -187,6 +187,15 @@
           "weight": 234,
           "caughtAt": "2025-11-16T08:02:01.469Z",
           "price": 2
+        },
+        {
+          "id": "8-1763280205890-0.9734983150062982",
+          "fishId": 8,
+          "name": "Kakap Merah",
+          "rarity": "uncommon",
+          "weight": 293,
+          "caughtAt": "2025-11-16T08:03:25.890Z",
+          "price": 12
         }
       ],
       "coins": 19,
