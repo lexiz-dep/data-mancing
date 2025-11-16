@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2416,
-      "totalCatches": 18,
+      "exp": 2453,
+      "totalCatches": 19,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -223,6 +223,15 @@
           "weight": 285,
           "caughtAt": "2025-11-16T08:10:00.108Z",
           "price": 3
+        },
+        {
+          "id": "trash-1763280612784-0.21492354977703942",
+          "fishId": -1,
+          "name": "Sandal Bekas",
+          "rarity": "common",
+          "weight": 373,
+          "caughtAt": "2025-11-16T08:10:12.784Z",
+          "price": 5
         }
       ],
       "coins": 36,
