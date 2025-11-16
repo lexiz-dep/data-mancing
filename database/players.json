@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2234,
-      "totalCatches": 10,
+      "exp": 2242,
+      "totalCatches": 11,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -176,6 +176,17 @@
           "fishId": 7,
           "weight": 290,
           "caughtAt": "2025-11-16T07:06:40.468Z"
+        }
+      ],
+      "fishCaught": [
+        {
+          "id": "1-1763279838230-0.505953267953428",
+          "fishId": 1,
+          "name": "Mujair",
+          "rarity": "common",
+          "weight": 84,
+          "caughtAt": "2025-11-16T07:57:18.230Z",
+          "price": 1
         }
       ]
     },
