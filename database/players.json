@@ -179,7 +179,10 @@
         }
       ],
       "fishCaught": [],
-      "coins": 29
+      "coins": 19,
+      "baitInventory": {
+        "worm": 10
+      }
     },
     "hfrjy": {
       "id": "hfrjy",
