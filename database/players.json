@@ -123,8 +123,8 @@
       "name": "lucy",
       "avatar": "female",
       "level": 5,
-      "exp": 2342,
-      "totalCatches": 15,
+      "exp": 2363,
+      "totalCatches": 16,
       "bestWeight": 9043,
       "inventory": [
         {
@@ -207,7 +207,7 @@
           "price": 5
         }
       ],
-      "coins": 19,
+      "coins": 36,
       "baitInventory": {
         "worm": 6
       }
